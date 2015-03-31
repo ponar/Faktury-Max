@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-test
+Hello World!!!
+
 drugi dzien:)
 Kolejne wersje;)
 =======
