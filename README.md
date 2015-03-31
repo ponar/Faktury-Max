@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 test
 drugi dzien:)
+Kolejne wersje;)
 =======
 Test
->>>>>>> af8d742d3ccb18446840fd8351d35bcc9d82ade1
+--
+
